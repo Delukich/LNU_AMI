@@ -1,0 +1,6 @@
+Intel i7, 3.2, 16
+AMD Ryzen 5, 3.6, 8
+Intel i5, 2.9, 12
+AMD Ryzen 3, 1.6, 4
+AMD Ryzen 5, 3.8, 12
+Intel i3, 2.2, 8

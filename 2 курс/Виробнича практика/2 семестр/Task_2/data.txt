@@ -1,0 +1,5 @@
+Book, The Great Gatsby, 1925, 12,99, F. Scott Fitzgerald, 180
+Book, 1984, 1949, 15,5, George Orwell, 328
+Book, To Kill a Mockingbird, 1960, 14,25, Harper Lee, 281
+Magazine, Time, 2021, 4,75, 45, Time Inc.
+Magazine, National Geographic, 2023, 5,99, 12, National Geographic Society

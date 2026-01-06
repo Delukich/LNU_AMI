@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Publication xsi:type="Book">
+    <Title>Кайдашева сімя</Title>
+    <Publisher>Основи</Publisher>
+    <Year>1879</Year>
+    <Author>Іван Нечуй-Левицький</Author>
+  </Publication>
+  <Publication xsi:type="Book">
+    <Title>Тигролови</Title>
+    <Publisher>Українська видавнича спілка</Publisher>
+    <Year>1944</Year>
+    <Author>Іван Багряний</Author>
+  </Publication>
+  <Publication xsi:type="Book">
+    <Title>Солодка Даруся</Title>
+    <Publisher>Піраміда</Publisher>
+    <Year>2004</Year>
+    <Author>Марія Матіос</Author>
+  </Publication>
+  <Publication xsi:type="Book">
+    <Title>Записки українського самашедшого</Title>
+    <Publisher>Либідь</Publisher>
+    <Year>2010</Year>
+    <Author>Ліна Костенко</Author>
+  </Publication>
+  <Publication xsi:type="Magazine">
+    <Title>Країна</Title>
+    <Publisher>Український тиждень</Publisher>
+    <Year>2021</Year>
+    <IssueNumber>10</IssueNumber>
+  </Publication>
+  <Publication xsi:type="Magazine">
+    <Title>Дніпро</Title>
+    <Publisher>Літературна Україна</Publisher>
+    <Year>2022</Year>
+    <IssueNumber>7</IssueNumber>
+  </Publication>
+  <Publication xsi:type="Magazine">
+    <Title>Всесвіт</Title>
+    <Publisher>ВСЛ</Publisher>
+    <Year>2023</Year>
+    <IssueNumber>3</IssueNumber>
+  </Publication>
+</ArrayOfPublication>

@@ -1,0 +1,7 @@
+Ivanchuk,GroupA,85.5
+Petrenko,GroupB,65
+Melnyk,GroupA,78.5
+Lukianchuk,GroupC,95
+Patrylo,GroupB,91
+Shevchenko,GroupD,78
+Petrio,Group,70
