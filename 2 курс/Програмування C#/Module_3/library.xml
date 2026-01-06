@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Book>
+    <Title>Місто</Title>
+    <Author>Валер'ян Підмогильний</Author>
+    <Genre>Роман</Genre>
+    <Year>1928</Year>
+    <Pages>320</Pages>
+  </Book>
+  <Book>
+    <Title>Тигролови</Title>
+    <Author>Іван Багряний</Author>
+    <Genre>Пригоди</Genre>
+    <Year>1944</Year>
+    <Pages>280</Pages>
+  </Book>
+  <Book>
+    <Title>Зачарована Десна</Title>
+    <Author>Олександр Довженко</Author>
+    <Genre>Автобіографія</Genre>
+    <Year>1957</Year>
+    <Pages>140</Pages>
+  </Book>
+  <Book>
+    <Title>Собор</Title>
+    <Author>Олесь Гончар</Author>
+    <Genre>Роман</Genre>
+    <Year>1968</Year>
+    <Pages>510</Pages>
+  </Book>
+  <Book>
+    <Title>Кайдашева сім'я</Title>
+    <Author>Іван Нечуй-Левицький</Author>
+    <Genre>Роман</Genre>
+    <Year>1879</Year>
+    <Pages>230</Pages>
+  </Book>
+</Library>

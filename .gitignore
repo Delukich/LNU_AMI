@@ -27,6 +27,27 @@ _ReSharper*/
 [Oo]bj/
 
 # ======================
+# C++ / C
+# ======================
+*.o
+*.obj
+*.gch
+*.pch
+*.out
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.exe
+*.log
+*.cache
+build/
+Debug/
+Release/
+
+# ======================
 # Python
 # ======================
 __pycache__/
@@ -41,10 +62,25 @@ build/
 *.log
 *.sqlite3
 .env
+.venv/
 venv/
 ENV/
 env/
 .ipynb_checkpoints/
+
+# ======================
+# JetBrains IDE (PyCharm, IntelliJ, Rider)
+# ======================
+.idea/
+*.iml
+*.iws
+out/
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+*.code-workspace
 
 # ======================
 # OS / system

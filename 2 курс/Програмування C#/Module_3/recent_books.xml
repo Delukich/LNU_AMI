@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Книги>
+  <Book>
+    <Title>Тигролови</Title>
+    <Author>Іван Багряний</Author>
+    <Genre>Пригоди</Genre>
+    <Year>1944</Year>
+    <Pages>280</Pages>
+  </Book>
+  <Book>
+    <Title>Зачарована Десна</Title>
+    <Author>Олександр Довженко</Author>
+    <Genre>Автобіографія</Genre>
+    <Year>1957</Year>
+    <Pages>140</Pages>
+  </Book>
+  <Book>
+    <Title>Собор</Title>
+    <Author>Олесь Гончар</Author>
+    <Genre>Роман</Genre>
+    <Year>1968</Year>
+    <Pages>510</Pages>
+  </Book>
+</Книги>
