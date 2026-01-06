@@ -1,4 +1,0 @@
-Electricity, 123, 150.00
-Water, 125, 200.50
-Internet, 124, 100.00
-Water, 121, 120.50
