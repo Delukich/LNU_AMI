@@ -1,0 +1,3 @@
+Apple Fruit 4 5
+Bread Bakery 1 13
+Chicken Meat 9 7

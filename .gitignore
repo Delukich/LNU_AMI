@@ -1,0 +1,55 @@
+# ======================
+# Visual Studio / C#
+# ======================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.dbmdl
+*.bak
+*.log
+*.obj
+*.exe
+*.dll
+*.zip
+*.nupkg
+*.psess
+*.vsp
+*.vspx
+*.vsix
+_ReSharper*/
+[Tt]est[Rr]esult*/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+.env
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+
+# ======================
+# OS / system
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
