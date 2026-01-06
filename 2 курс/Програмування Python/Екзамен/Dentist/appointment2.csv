@@ -1,0 +1,4 @@
+Date,IdPatient,IdDoctor,IdOperation,Quantity
+2024-12-01,103,3,11,2
+2024-12-02,102,1,10,3
+2024-12-03,101,2,12,1
